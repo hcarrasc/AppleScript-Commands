@@ -4,3 +4,5 @@ tell application "Spotify"
 	return currentArtist & " - " & currentTrack
 end tell
 
+
+
